@@ -8,7 +8,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rania3103&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
     </div>
 </div>
-    [![](https://visitcount.itsvg.in/api?id=rania3103&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rania3103&icon=0&color=5)](https://visitcount.itsvg.in)
 
 
 
