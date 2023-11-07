@@ -3,11 +3,11 @@
 <br>Come join me on this adventure of growth and exploration!<br><br>Feel free to delve into my projects and contributions. Lets connect and learn from each other!<br><br>
 
 <div align="center">
-  
+  # 📊 GitHub Stats:
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rania3103&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+  [![](https://visitcount.itsvg.in/api?id=rania3103&icon=0&color=5)](https://visitcount.itsvg.in)
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=rania3103&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
