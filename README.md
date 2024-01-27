@@ -1,16 +1,26 @@
 # 💫 About Me:
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="width: 45%;">
-        <p>
-            👋 Hello, I’m Rania Abassi<br><br>🎓 Student at Holberton School<br><br>🚀 Passionate about Technology and Lifelong Learning<br><br>🌟 Welcome to my GitHub!<br><br>
-            I am a student, at Holberton School, driven by an enthusiasm for technology. I am always eager to broaden my understanding and expertise in the field of technology. My experience, on GitHub showcases my dedication to learning and exploring the domains of coding and development.
-            <br>Come join me on this adventure of growth and exploration!<br><br>Feel free to delve into my projects and contributions. Let's connect and learn from each other!<br><br>
-        </p>
-    </div>
-    <div style="width: 45%; text-align: right;">
-        <img src="https://i.imgur.com/MnRWEps.gif" alt="My Cool GIF" height="300" width="500">
-    </div>
+<div>
+    <p>
+        👋 Hello, I’m Rania Abassi<br><br>🎓 Student at Holberton School<br><br>🚀 Passionate about Technology and Lifelong Learning<br><br>🌟 Welcome to my GitHub!<br><br>
+        I am a student, at Holberton School, driven by an enthusiasm for technology. I am always eager to broaden my understanding and expertise in the field of technology. My experience, on GitHub showcases my dedication to learning and exploring the domains of coding and development.
+        <br>Come join me on this adventure of growth and exploration!<br><br>Feel free to delve into my projects and contributions. Let's connect and learn from each other!<br><br>
+    </p>
+    <img src="https://i.imgur.com/MnRWEps.gif" alt="My Cool GIF" height="250" width="800" >
+    
+# 💻 Tech Stack:
+```js
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : {"Python", "Javascript", "c" },
+    "OtherLanguages" : { "HTML", "CSS", "Bootstrap", "Express.js", "Flask", "Node.js", "React"},
+    "Database" : { "MySQL", "PostgreSQL", "MongoDB"},
+    "Editors" : { "Vscode"},
+    "Platforms" : {"Ubuntu", "Windows" },
+    "OtherTools" : { "Git", "Postman", "Docker","Trello", "Canva"}
+  };
+}
+```
 </div>
 
 # 📊 GitHub Stats:
