@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://i.imgur.com/MnRWEps.gif" alt="My Cool GIF" height="300" width="500">
 </div>
 
