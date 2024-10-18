@@ -10,7 +10,8 @@
     ╰┈➤Feel free to explore my projects and contributions. Let’s connect and learn from each other! 🤝✨<br><br>
 </p>
     <img src="https://i.imgur.com/MnRWEps.gif" alt="My Cool GIF" height="250" width="800" >
-    
+
+
 # 💻 Tech Stack
 ```javascript
 class About extends Me { 
