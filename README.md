@@ -25,7 +25,8 @@ class About extends Me {
     "Shell Commands": ["Bash"],
     "Code Editors": ["VSCode"],
     "Operating Systems": ["Ubuntu", "Windows"],
-    "Project Management": ["Trello", "Canva"]
+    "Project Management": ["Trello", "Canva"],
+    "Cloud": ["AWS"]
   };
 }
 ```
