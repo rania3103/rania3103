@@ -40,7 +40,6 @@ class About extends Me {
 }
 ```
 
-<p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlteXMwNnlibnR3N2FuZDNydGloZmh0YmJpa2Nxb29heHphM2pydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoicctrOv5aGw6mCZi/giphy.gif" width="700" height="200"> </p>
 
 </div>
 
