@@ -54,13 +54,13 @@ class About extends Me {
     </div>
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🤭 Fun Fact
 <p align="left">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRqM3hveWNsN3Zhb2dmejA4cm41YmtpMjk2YjFzNTA0ZzAxMnl3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif" width="600" height="200">
 </p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
 <h2 align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&duration=4002&pause=1000&color=DB34F7&center=true&vCenter=true&width=435&lines=%F0%9F%8C%9F+Thank+you+%F0%9F%8C%9F" alt="Typing SVG" /></a></h2>
 <br>
