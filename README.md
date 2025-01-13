@@ -8,7 +8,7 @@
 <div>
 <p>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&duration=4002&pause=1000&color=DB34F7&center=true&vCenter=true&width=435&lines=%F0%9F%8C%B8+%F0%9D%91%AF%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%8D%F0%9D%92%90!+%F0%9D%91%B0'%F0%9D%92%8E+%F0%9D%91%B9%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%8A%F0%9D%92%82+%F0%9F%8C%9F+" alt="Typing SVG" /></a>
-     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG95aWxob3IzNTVlMzR1ZmM1ZzY3ZHA2bnRxcXZjMGhoenk0a2d4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif" width="700" height="200">
+     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG95aWxob3IzNTVlMzR1ZmM1ZzY3ZHA2bnRxcXZjMGhoenk0a2d4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif" width="850" height="200">
     <br><br>
     🎓 𝑺𝒕𝒖𝒅𝒆𝒏𝒕 𝒂𝒕 𝑯𝒐𝒍𝒃𝒆𝒓𝒕𝒐𝒏 𝑺𝒄𝒉𝒐𝒐𝒍<br><br>
     🚀 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 𝒂𝒏𝒅 𝒍𝒊𝒇𝒆𝒍𝒐𝒏𝒈 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈<br><br>
@@ -59,7 +59,7 @@ class About extends Me {
 
 ### 🤭 Fun Fact
 <p align="left">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRqM3hveWNsN3Zhb2dmejA4cm41YmtpMjk2YjFzNTA0ZzAxMnl3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif" width="700" height="200">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRqM3hveWNsN3Zhb2dmejA4cm41YmtpMjk2YjFzNTA0ZzAxMnl3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif" width="600" height="200">
 </p>
   
 <h2 align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&duration=4002&pause=1000&color=DB34F7&center=true&vCenter=true&width=435&lines=%F0%9F%8C%9F+Thank+you+%F0%9F%8C%9F" alt="Typing SVG" /></a></h2>
