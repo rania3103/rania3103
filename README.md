@@ -1,45 +1,47 @@
 <p align="center">
-  
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFid2gzYm9jb2h3c2wxb2cxM3J2ejRwcGZsN3U0bGhrYTE4d3g4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" width="700" height="200">
+  <img src="https://i.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="700" height="150" alt="Welcome GIF">
 </p>
 
-# 💫 About Me:
+<h1 align="center"> 🌟 Welcome to My GitHub World! 🌟 </h1>
 
-<div>
-<p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&duration=4002&pause=1000&color=DB34F7&center=true&vCenter=true&width=435&lines=%F0%9F%8C%B8+%F0%9D%91%AF%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%8D%F0%9D%92%90!+%F0%9D%91%B0'%F0%9D%92%8E+%F0%9D%91%B9%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%8A%F0%9D%92%82+%F0%9F%8C%9F+" alt="Typing SVG" /></a>
-     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG95aWxob3IzNTVlMzR1ZmM1ZzY3ZHA2bnRxcXZjMGhoenk0a2d4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif" width="850" height="200">
-    <br><br>
-    🎓 𝑺𝒕𝒖𝒅𝒆𝒏𝒕 𝒂𝒕 𝑯𝒐𝒍𝒃𝒆𝒓𝒕𝒐𝒏 𝑺𝒄𝒉𝒐𝒐𝒍<br><br>
-    🚀 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 𝒂𝒏𝒅 𝒍𝒊𝒇𝒆𝒍𝒐𝒏𝒈 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈<br><br>
-    ✨ 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝑮𝒊𝒕𝑯𝒖𝒃 𝒘𝒐𝒓𝒍𝒅! 💻<br><br>
-    ╰┈➤𝑰 𝒂𝒎 𝒅𝒓𝒊𝒗𝒆𝒏 𝒃𝒚 𝒂 𝒔𝒕𝒓𝒐𝒏𝒈 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒎 𝒇𝒐𝒓 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 𝒂𝒏𝒅 𝒆𝒂𝒈𝒆𝒓 𝒕𝒐 𝒆𝒙𝒑𝒂𝒏𝒅 𝒎𝒚 𝒌𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 𝒊𝒏 𝒄𝒐𝒅𝒊𝒏𝒈 𝒂𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕. 💡<br>
-    ╰┈➤𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒆𝒙𝒑𝒍𝒐𝒓𝒆 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒂𝒏𝒅 𝒄𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏𝒔. 𝑳𝒆𝒕’𝒔 𝒄𝒐𝒏𝒏𝒆𝒄𝒕 𝒂𝒏𝒅 𝒍𝒆𝒂𝒓𝒏 𝒇𝒓𝒐𝒎 𝒆𝒂𝒄𝒉 𝒐𝒕𝒉𝒆𝒓! 🤝✨<br><br>
-</p>
-    <p align="center">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4002&pause=1000&color=DB34F7&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%8C%B8Hi+there!+I'm+Rania;A+Lifelong+Learner+%26+Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+<br>
+<p align="center">
         <img src="https://i.imgur.com/MnRWEps.gif" height="250" width="700" >
-    </p>
+</p>
+
+---
+
+## 👩‍💻 About Me
+🎓 **Student at Holberton School**  
+🚀 **Passionate about lifelong learning and creating impactful solutions**  
+✨ **Focused on coding and innovation**  
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG95aWxob3IzNTVlMzR1ZmM1ZzY3ZHA2bnRxcXZjMGhoenk0a2d4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif" width="500" height="200">
+
+🤝 **Let's Connect**:  
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/raniaabassi/) 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=for-the-badge)](https://rania3103.github.io/Portfolio/)  
+
+---
 
 # 💻 Tech Stack
 
 ```javascript
 class About extends Me { 
   const myTools = {  
+    "Frontend": ["HTML", "CSS", "Bootstrap", "React", "TailwindCSS"],
+    "Backend": ["Node.js", "Express.js", "Flask"],
     "Programming Languages": ["Python", "JavaScript", "C"],
-    "Web Technologies": ["HTML", "CSS", "Bootstrap", "React", "Node.js", "Express.js", "Flask"],
     "Databases": ["MySQL", "PostgreSQL", "MongoDB"],
-    "Data Tools": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "SQL", "Scikit-learn", "Beautiful Soup"],
-    "Containerization": ["Docker"],
-    "Version Control": ["Git"],
-    "Shell Commands": ["Bash"],
-    "Code Editors": ["VSCode"],
+    "Data Tools": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "SQL", "Scikit-learn", "Beautiful Soup", "Plotly", "TensorFlow"],
+    "Other Tools": ["Docker", "Git", "AWS", "Bash", "VSCode", "Postman", "Trello", "Canva"],
     "Operating Systems": ["Ubuntu", "Windows"],
-    "Project Management": ["Trello", "Canva"],
-    "Cloud": ["AWS"]
   };
 }
 ```
-
 
 </div>
 
@@ -56,16 +58,18 @@ class About extends Me {
 
 ### 🤭 Fun Fact
 <p align="left">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRqM3hveWNsN3Zhb2dmejA4cm41YmtpMjk2YjFzNTA0ZzAxMnl3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif" width="600" height="200">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRqM3hveWNsN3Zhb2dmejA4cm41YmtpMjk2YjFzNTA0ZzAxMnl3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif" width="600" height="150">
 </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
-<h2 align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&duration=4002&pause=1000&color=DB34F7&center=true&vCenter=true&width=435&lines=%F0%9F%8C%9F+Thank+you+%F0%9F%8C%9F" alt="Typing SVG" /></a></h2>
+<h2 align='center'><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4002&pause=1000&color=DB34F7&center=true&vCenter=true&width=435&lines=Let's+create+something+amazing%E2%9C%A8" alt="Typing SVG" />
+</h2>
 <br>
 
-<p align='center'>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNoc290a3Z0bjlmbGlhd2ZlYTU2MG5nOXQzYndhbHFvNHozZjJpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XsGH5TII7EzGUvTN1g/giphy.gif" width="700" height="200"></img></p>
+<p align="center">
+    <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="500" height="200" alt="Typing Animation">
+</p>
 <br>
 
