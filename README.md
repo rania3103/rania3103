@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="700" height="150" alt="Welcome GIF">
-</p>
-
 <h1 align="center"> 🌟 Welcome to My GitHub World! 🌟 </h1>
 
 <div align="center">
@@ -19,7 +15,6 @@
 🚀 **Passionate about lifelong learning and creating impactful solutions**  
 ✨ **Focused on coding and innovation**  
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG95aWxob3IzNTVlMzR1ZmM1ZzY3ZHA2bnRxcXZjMGhoenk0a2d4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif" width="500" height="200">
 
 🤝 **Let's Connect**:  
 [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/raniaabassi/) 
@@ -69,7 +64,7 @@ class About extends Me {
 <br>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="500" height="200" alt="Typing Animation">
+    <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="300" height="200" alt="Typing Animation">
 </p>
 <br>
 
